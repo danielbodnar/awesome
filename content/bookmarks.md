@@ -1,5 +1,3 @@
-# Miscellaneous
-
 - [accounts](https://github.com/otsimo/accounts) Otsimo Connect Service
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 - [advanced-ssh-config](https://github.com/moul/advanced-ssh-config) :computer: make your ssh client smarter
