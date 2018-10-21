@@ -17,51 +17,30 @@
 
 ## Contents
 
-## Platforms
-
-## Programming Languages
-
-## Front-End Development
-
-## Back-End Development
-
-## Computer Science
-
-## Big Data
-
-## Theory
-
-## Books
-
-## Editors
-
-## Gaming
-
-## Development Environment
-
-## Entertainment
-
-## Databases
-
-## Media
-
-## Learn
-
-## Security
-
-## Content Management Systems
-
-## Hardware
-
-## Business
-
-## Work
-
-## Networking
-
-## Decentralized Systems
-
-## Miscellaneous
+- [Awesome Lists](content/awesome-lists.md)
+- [Platforms](content/platforms.md)
+- [Programming Languages](content/programming-languages.md)
+- [Front-End Development](content/front-end-development.md)
+- [Back-End Development](content/back-end-development.md)
+- [Computer Science](content/computer-science.md)
+- [Big Data](content/big-data.md)
+- [Theory](content/theory.md)
+- [Books](content/books.md)
+- [Editors](content/editors.md)
+- [Gaming](content/gaming.md)
+- [Development Environment](content/development-environment.md)
+- [Entertainment](content/entertainment.md)
+- [Databases](content/databases.md)
+- [Media](content/media.md)
+- [Learn](content/learn.md)
+- [Security](content/security.md)
+- [Content Management Systems](content/content-management-systems.md)
+- [Hardware](content/hardware.md)
+- [Business](content/business.md)
+- [Work](content/work.md)
+- [Networking](content/networking.md)
+- [Decentralized Systems](content/decentralized-systems.md)
+- [Miscellaneous](content/miscellaneous.md)
 
 ## License
 
